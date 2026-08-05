@@ -1,3 +1,4 @@
+
 # Hospital Website
 
 A Django-based hospital website that lets visitors browse events, find doctors, explore careers, and make payments.
@@ -14,7 +15,7 @@ Built by **Aarav Raj**.
 - **Payments** — consultancy fee payment form
 - **Admin panel** — full Django admin for content management
 
-> **Note:** Page content (events, doctors, jobs, benefits, testimonials) is currently hardcoded in the HTML templates. The **Careers** and **Payments** forms do persist submissions — they're saved to `CareerApplication` and `Payment` models and viewable at `/admin/` (create a superuser with `python manage.py createsuperuser`).
+> **Note:** All page content is currently hardcoded in the HTML templates. No models are defined yet, so the admin panel is empty and the Careers/Payments forms only show a confirmation alert on submit — they don't persist data.
 
 ---
 
