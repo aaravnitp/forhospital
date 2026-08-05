@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\NARAYAN\\OneDrive\\Desktop\\projects\\hospital project\\forhospital\\hospital_website\\venv\\Scripts\\python.exe",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.extraPaths": [
+        "C:/Users/NARAYAN/OneDrive/Desktop/projects/hospital project/forhospital/hospital_website"
+    ]
+}
