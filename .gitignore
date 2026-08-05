@@ -1,0 +1,10 @@
+hospitalweb/
+hospital_website/hospital_website/__pycache__/
+hospital_website/careers/__pycache__/
+hospital_website/doctors/__pycache__/
+hospital_website/events/__pycache__/
+hospital_website/payments/__pycache__/
+hospital_website/careers/migrations/__pycache__/
+hospital_website/doctors/migrations/__pycache__/
+hospital_website/events/migrations/__pycache__/
+hospital_website/payments/migrations/__pycache__/
